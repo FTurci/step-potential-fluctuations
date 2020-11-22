@@ -1,3 +1,6 @@
-# Studying density fluctuations in the step potential
+# Attempts to model liqui-liquid-like fluctuations in colloidal experiments
+This repository contains simulations exploring a variety of models with shoulder potentials.
+## Studying density fluctuations in the step potential
+Simulations using DynamoMD http://dynamomd.org.
 
-Simulations using DynamoMD http://dynamomd.org
+
