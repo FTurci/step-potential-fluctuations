@@ -11,3 +11,6 @@ U(r) |....|
      |///////|_____ r
      0
 ```
+
+How to proceed:
+- modify starting configuration
