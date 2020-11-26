@@ -12,5 +12,12 @@ U(r) |....|
      0
 ```
 
+The folder contains:
+
+- starting configuratons in `startconfs`
+- helper modules in `src`
+- runs with running script in in `run'
+
+
 How to proceed:
 - modify starting configuration
