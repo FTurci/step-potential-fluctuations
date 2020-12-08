@@ -16,5 +16,5 @@ The folder contains:
 
 - starting configuratons in `startconfs`
 - helper modules in `src`
-- runs with running script in in `run'
+- runs with running script in in `run`
 
