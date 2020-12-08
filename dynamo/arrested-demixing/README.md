@@ -18,6 +18,3 @@ The folder contains:
 - helper modules in `src`
 - runs with running script in in `run'
 
-
-How to proceed:
-- modify starting configuration to 
