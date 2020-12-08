@@ -20,4 +20,4 @@ The folder contains:
 
 
 How to proceed:
-- modify starting configuration
+- modify starting configuration to 
